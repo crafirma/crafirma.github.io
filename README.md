@@ -1,2 +1,2 @@
 # crafirma.github.io
-# Here is a blog repository
+## Here is a blog repository
